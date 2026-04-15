@@ -1,7 +1,5 @@
 # HNG12-stage1-0xNuel
-# HNG DevOps Stage 1
-
-## Project Overview
+## Project Description
 This is a high-performance REST API built with **Python and FastAPI**. It is deployed on an **AWS EC2** instance using **Nginx** as a reverse proxy and **Systemd** to ensure the service stays alive 24/7.
 
 ## Live API Base URL
